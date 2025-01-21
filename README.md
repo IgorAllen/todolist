@@ -24,10 +24,3 @@
 
 <br>
 
-# How to Use
-
-### First, we need to clone or download this repository.
-
-```bash
-#Command to clone the repository
-$ git clone https://github.com/manualdodev/todolist-fullstack.git
